@@ -17,7 +17,7 @@
       <a href="#welcome-section">Introduzione</a>
     </li>
     <li>
-      <a href="#reindirizzamenti">Reindirizzamenti</a>
+      <a href="#descrizioni">Descrizioni</a>
     </li>
     <li>
       <a href="#contatti">Contatti</a>
@@ -40,9 +40,9 @@
   <div class="projects-grid">
 <!-- START STORIA MD -->
     <a href="https://it.wikipedia.org/wiki/Moldavia#Storia" target="_blank" class="project project-tile">
-      <img class="project-image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/MapRegionsRomania.png/440px-MapRegionsRomania.png" alt="Storia MD"/>
+      <img class="project-image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/MapRegionsRomania.png/440px-MapRegionsRomania.png" alt="Storia"/>
       <p class="project-title">
-        <span class="code">&lt;</span>Storia della Moldavia<span class="code">&#47;&gt;</span>
+        <span class="code">&lt;</span>Storia MD<span class="code">&#47;&gt;</span>
       </p>
     </a>
 <!-- END STORIA MD -->
@@ -56,75 +56,66 @@
 <!-- END STEFANO IL GRANDE -->
 <!-- START POSIZIONE GEOGRAFICA -->
     <a href="https://it.wikipedia.org/wiki/Moldavia#Geografia" target="_blank" class="project project-tile">
-      <img class="project-image" src="https://media.istockphoto.com/vectors/moldova-relief-map-vector-id954707708" alt="project"/>
+      <img class="project-image" src="https://media.istockphoto.com/vectors/moldova-relief-map-vector-id954707708" alt="Posizione Geografica"/>
       <p class="project-title">
-        <span class="code">&lt;</span>Posizione Geografica<span class="code">&#47;&gt;</span>
+        <span class="code">&lt;</span>Posizione Geografica MD<span class="code">&#47;&gt;</span>
       </p>
     </a>
 <!-- END POSIZIONE GEOGRAFICA -->
-
-
-
-RICOMINCIA DA QUI!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-
-
-
-    <a
-      href="https://codepen.io/freeCodeCamp/full/mVEJag"
-      target="_blank"
-      class="project project-tile"
-    >
-      <img
-        class="project-image"
-        src="https://cdn.freecodecamp.org/testable-projects-fcc/images/map.jpg"
-        alt="project"
-      />
+<!-- START POPOLAZIONE -->
+    <a href="https://it.wikipedia.org/wiki/Moldavia#Popolazione" target="_blank" class="project project-tile">
+      <img class="project-image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Harta_etnica_a_Republicii_Moldova_la_nivel_de_comune.jpg/800px-Harta_etnica_a_Republicii_Moldova_la_nivel_de_comune.jpg" alt="Popolazione"/>
       <p class="project-title">
-        <span class="code">&lt;</span>
-        Map Data Across the Globe
-        <span class="code">&#47;&gt;</span>
+        <span class="code">&lt;</span>Popolazione MD<span class="code">&#47;&gt;</span>
       </p>
     </a>
-    <a
-      href="https://codepen.io/freeCodeCamp/full/wGqEga"
-      target="_blank"
-      class="project project-tile"
-    >
-      <img
-        class="project-image"
-        src="https://cdn.freecodecamp.org/testable-projects-fcc/images/wiki.png"
-        alt="project"
-      />
+<!-- END POPOLAZIONE -->
+<!-- START ORGANIZZAZIONE STATALE -->
+    <a href="https://it.wikipedia.org/wiki/Moldavia#Ordinamento_dello_Stato" target="_blank" class="project project-tile">
+      <img class="project-image" src="https://i2.wp.com/orvietosi.it/wp-content/uploads/2019/10/moldavia.jpg?ssl=1" alt="Organizzazione dello Stato"/>
       <p class="project-title">
-        <span class="code">&lt;</span>
-        Wikipedia Viewer
-        <span class="code">&#47;&gt;</span>
+        <span class="code">&lt;</span>Organizzazione dello Stato<span class="code">&#47;&gt;</span>
       </p>
     </a>
-    <a
-      href="https://codepen.io/freeCodeCamp/full/KzXQgy"
-      target="_blank"
-      class="project project-tile"
-    >
-      <img
-        class="project-image"
-        src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tic-tac-toe.png"
-        alt="project"
-      />
+<!-- END ORGANIZZAZIONE STATALE -->
+<!-- START CULTURA -->
+    <a href="https://viaggi-chisinau.jimdofree.com/moldova/chisinau/cultura-e-arte/" target="_blank" class="project project-tile">
+      <img class="project-image" src="https://www.europeanheritagedays.com/sites/default/files/styles/news_image/public/C296BC7D-B6EA-4630-8ED6-4CEBA38E126F.jpg?itok=Fl6r7KO2" alt="Cultura"/>
       <p class="project-title">
-        <span class="code">&lt;</span>
-        Tic Tac Toe Game
-        <span class="code">&#47;&gt;</span>
+        <span class="code">&lt;</span>Cultura MD<span class="code">&#47;&gt;</span>
       </p>
     </a>
+<!-- END CULTURA -->
   </div>
-
-  <a
-    href="https://codepen.io/FreeCodeCamp/"
-    class="btn btn-show-all"
-    target="_blank"
-    >Show all<i class="fas fa-chevron-right"></i
-  ></a>
 </section>
 <!-- END PROJECTS SECTION -->
+
+<!-- START CONTACT SECTION -->
+<section id="contact" class="contact-section">
+  <div class="contact-section-header">
+    <h2>Grazie dell'attenzione</h2>
+    <h3>Non esitate a contattarci per ulteriori informazioni!</h3>
+  </div>
+  <div class="contact-links">
+    <a href="https://www.facebook.com/marcel.ursachi.33" target="_blank" class="btn contact-details"><i class="fab fa-facebook-square"></i> Facebook</a>
+    <a id="profile-link" href="https://github.com/MarcelUrsachi" target="_blank" class="btn contact-details"><i class="fab fa-github"></i> GitHub</a>
+    <a href="https://twitter.com/Marcel1t0" target="_blank" class="btn contact-details"><i class="fab fa-twitter"></i> Twitter</a>
+    <h3>Send a mail</h3>
+    <h4>marcel.ursachi@savoiabenincasa.it</h4>
+    <h3>Call me</h3>
+    <h4>+39 366 *** ****</h4>
+  </div>
+</section>
+<!-- END CONTACT SECTION -->
+
+<!-- START FOOTER SECTION -->
+<footer>
+  <p>
+    Questa è una pagina html sperimentale per un progetto scolastico.
+  </p>
+  <p>
+    &copy; Created for
+    <a href="https://www.freecodecamp.com/" target="_blank">freeCodeCamp <i class="fab fa-free-code-camp"></i></a>
+  </p>
+</footer>
+<!-- END FOOTER SECTION -->
